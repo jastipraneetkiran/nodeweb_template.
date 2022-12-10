@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "admin-lte": "^2.4.12",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
